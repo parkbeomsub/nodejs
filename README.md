@@ -1,13 +1,10 @@
-# nodejs
-tutorial nodejs
-
-
-
-
 
 # NPM 관련
+---
 ## Npm업데이트 
+'''
 sudo npm install npm -g
+'''
 
 ## npm 초기화
 npm init
@@ -26,7 +23,7 @@ npm  install  [package_name]@version
 글로벌 모듈 조회
 npm list -g --depth=0
 
-* git clone 후 패키지 다운로드
+* git clone 후 패키지 다운로드 (package.json 파일 참고하여)
 npm install
 
 
